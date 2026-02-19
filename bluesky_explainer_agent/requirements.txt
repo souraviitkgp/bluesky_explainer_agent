@@ -1,0 +1,8 @@
+atproto==0.0.65
+python-dotenv==1.2.1
+agno
+ddgs
+openai
+fastapi
+uvicorn[standard]
+scikit-learn
